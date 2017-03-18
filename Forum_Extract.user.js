@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name        Forum Extract for User Styles
+// @name        Forum Extract
 // @version     1.2.7
-// @description Filters out any unwanted listings on forum.
+// @description Filters out any unwanted listings on userstyles forum.
 // @author      Sonny Razzano aka srazzano
 // @namespace   srazzano
 // @include     /https?://forum\.userstyles\.org.*/
