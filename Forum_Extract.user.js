@@ -7,6 +7,7 @@
 // @include     /https?://forum\.userstyles\.org.*/
 // @require     https://raw.githubusercontent.com/srazzano/GM_devtools_Dialog/master/GM_devtools_Dialog.js
 // @icon        https://raw.githubusercontent.com/srazzano/Images/master/extract.png
+// @homepageURL https://github.com/srazzano/Forum_Extract/blob/master/Forum_Extract.user.js
 // @download    https://raw.githubusercontent.com/srazzano/Forum_Extract/master/Forum_Extract.user.js
 // @support     srazzano@gmail.com
 // @grant       GM_addStyle
